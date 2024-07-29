@@ -1,0 +1,33 @@
+.header {
+    background-color: #FFF;
+}
+
+nav {
+    background-color: transparent;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin-right: 55px;
+    font-size: 16px;
+}
+
+ul li:last-child {
+    margin-right: 18px;
+}
+
+ul li a.active {
+    color: #8A53FF;
+    /* Active link color */
+    font-weight: bold;
+}
+
+.separator {
+    width: 1px;
+    color: #000;
+    border-bottom: 20px solid #EEE;
+    margin-right: 18px;
+}
