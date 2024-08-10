@@ -1,0 +1,58 @@
+.hero {
+    width: 100%;
+    height: 580px;
+    overflow: hidden;
+    background-image: url('../../assets/images/hero\ background\ image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content h1 {
+    font-family: 'ChangaOne-Regular';
+    font-size: 73px;
+    max-width: 515px;
+    color: #434343;
+}
+
+.content span {
+    color: #8A53FF;
+}
+
+.content p {
+    font-family: 'Roboto';
+    font-size: 22px;
+    max-width: 440px;
+    color: #434343;
+}
+
+.heroLinks {
+    text-wrap: nowrap;
+}
+
+.heroLinks button {
+    font-family: 'Roboto';
+    font-size: 16px;
+    width: 166.12px;
+    height: 47px;
+}
+
+.heroLinks .shareStory {
+    background-color: #8A53FF;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.heroLinks .shareStory:hover {
+    background-color: #8953ffdc;
+    color: #FFF;
+}
+
+.heroLinks .highlights span {
+    padding: 8px;
+    border-radius: 50%;
+    background-color: #e7dff8;
+}
+
+.heroLinks .highlights svg {
+    color: #8A53FF;
+}
