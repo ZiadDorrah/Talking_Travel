@@ -1,0 +1,56 @@
+.featured {
+    margin-top: 107px;
+}
+
+.featured img {
+    border: none;
+    margin-right: 40px;
+}
+
+.content {
+    padding: 30px;
+}
+
+.content h2 {
+    text-transform: uppercase;
+    color: #8A53FF;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+.content h1 {
+    color: #434343;
+    font-size: 39px;
+    font-family: 'ChangaOne-Regular';
+}
+
+.content p {
+    color: #434343;
+    font-size: 18px;
+    font-family: 'Roboto';
+    max-width: 490px;
+}
+
+.content .watch {
+    color: #8A53FF;
+    font-family: 'Roboto';
+    display: flex;
+    align-items: center;
+    padding: 0px;
+}
+
+.content .watch span {
+    padding: 8px;
+    border-radius: 50%;
+    background-color: #8A53FF;
+    margin-right: 12px;
+    display: flex;
+    width: 39px;
+    justify-content: center;
+    height: 39px;
+    align-items: center;
+}
+
+.content .watch svg {
+    color: #FFF;
+}
