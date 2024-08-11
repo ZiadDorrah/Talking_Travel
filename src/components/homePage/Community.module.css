@@ -1,0 +1,64 @@
+.community {
+    background-image: url('../../assets/images/Share\ your\ travels\ section\ background\ image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 74px 0 70px 0;
+}
+
+.communityHeading h2 {
+    color: #8A53FF;
+    font-size: 18px;
+    font-family: 'Roboto';
+    text-transform: uppercase;
+}
+
+.communityHeading h1 {
+    color: #434343;
+    font-size: 39px;
+    margin-bottom: 30px;
+    font-family: 'ChangaOne-Regular';
+}
+
+.shareForm {
+    padding: 28px;
+    background-color: #FFF;
+    width: fit-content;
+    border-radius: 12px;
+}
+
+.formHeading h3 {
+    color: #434343;
+    font-family: 'ChangaOne-Regular';
+    margin-bottom: 6px;
+    padding: 0;
+}
+
+.formHeading p {
+    color: #576074;
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    line-height: 34px;
+    width: 450px;
+}
+
+.formHandleInput>* {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 16px 12px;
+    border-radius: 4px;
+    border: solid 1px #c4c4c4;
+}
+
+.submitbtn {
+    margin-top: 7px;
+    color: #FFF !important;
+    background-color: #8A53FF !important;
+    width: 222px !important;
+    padding: 13.5px 9.5px !important;
+}
+
+.submitbtn:hover {
+    background-color: #8953ffe7 !important;
+}

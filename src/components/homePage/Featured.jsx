@@ -7,7 +7,7 @@ import { IoPlay } from "react-icons/io5";
 const Featured = () => {
     return (
         <div className={`${classes.featured} container d-flex`}>
-            <img src={featuredImage} class="img-thumbnail" alt="..." />
+            <img src={featuredImage} className="img-thumbnail" alt="..." />
             <div className={`${classes.content}`}>
                 <h2>Featured Destination</h2>
                 <h1>Our swiss adventure blog</h1>

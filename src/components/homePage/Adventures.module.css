@@ -1,0 +1,40 @@
+.adventures {
+    margin-top: 107px;
+}
+
+.adventuresHeading {
+    margin-bottom: 48px;
+}
+
+.adventuresHeading h2 {
+    font-size: 18px;
+    color: #8A53FF;
+    font-family: 'Roboto';
+    text-transform: uppercase;
+}
+
+.adventuresHeading h1 {
+    font-size: 39px;
+    color: #434343;
+    font-family: 'ChangaOne-Regular';
+}
+
+.gallary img {
+    border: none;
+    width: 268px;
+
+}
+
+.gallary p {
+    margin: 0;
+    font-family: 'ChangaOne-Regular';
+    font-size: 24px;
+    color: #434343;
+}
+
+.gallary .discover {
+    color: #8A53FF;
+    font-size: 16px;
+    font-family: 'Roboto';
+    padding: 0px;
+}
